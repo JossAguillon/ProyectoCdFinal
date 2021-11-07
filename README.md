@@ -1,2 +1,2 @@
 # ProyectoCdFinal
-Creación de nuestrp README
+Creación de nuestro README
