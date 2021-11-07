@@ -18,7 +18,7 @@ Me llamo Jocelyn Aguillón y estudio Ingeniería de Software
 
 
 ## Mis Mascotas
-![Foto de mis mascotas](totomy.jpeg)
+![Foto de mis mascotas](totomy.png)
 
 ## Mi quote favorita
 > Aprendamos a desconstruirnos
